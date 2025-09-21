@@ -1,0 +1,15 @@
+Job Title: Data Scientist
+
+Responsibilities:
+- Build and deploy machine learning models for prediction and recommendation systems.
+- Work with large datasets, clean and preprocess data.
+- Collaborate with data engineering team to productionize models.
+
+Must-have Skills:
+Python, SQL, TensorFlow, PyTorch
+
+Nice-to-have Skills:
+AWS, Docker, NLP experience
+
+Qualifications:
+B.Tech or higher in Computer Science, AI, or related field.

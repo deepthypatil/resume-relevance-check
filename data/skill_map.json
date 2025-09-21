@@ -1,0 +1,14 @@
+{
+  "python": ["py", "python3"],
+  "pytorch": ["torch", "pyTorch"],
+  "tensorflow": ["tf", "tensorflow2"],
+  "sql": ["postgresql", "mysql", "sqlite"],
+  "docker": ["containerization", "containers"],
+  "aws": ["amazon web services", "amazon"],
+  "scikit-learn": ["sklearn", "scikit learn"],
+  "keras": ["keras dl", "deep learning keras"],
+  "kubernetes": ["k8s", "kubernetes"],
+  "gcp": ["google cloud platform", "gcp cloud"],
+  "nlp": ["natural language processing", "bert", "transformers"],
+  "recommendation systems": ["recommenders", "personalization engine"]
+}

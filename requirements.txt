@@ -1,0 +1,25 @@
+pdfplumber
+python-docx
+docx2txt
+sentence-transformers
+scikit-learn
+pandas
+streamlit
+rapidfuzz
+chromadb
+sqlalchemy
+pydantic
+openai
+uvicorn
+fastapi
+python-multipart
+streamlit
+fpdf
+matplotlib
+wordcloud
+rapidfuzz
+sentence-transformers
+scikit-learn
+pandas
+numpy
+sqlite3  # (comes with Python, optional)

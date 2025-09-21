@@ -6,7 +6,7 @@ rapidfuzz
 sentence-transformers
 numpy
 pandas
-sqlalchemy
+scikit-learn
 pdfplumber
+python-docx
 docx2txt
-fuzzywuzzy  # if used, otherwise ignore
